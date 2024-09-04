@@ -3,9 +3,9 @@
 layout: home
 
 hero:
-  name: "TODO: Title"
-  text: "TODO: Subtitle"
-  tagline: "TODO: Tagline"
+  name: "Nora Bulovic's"
+  text: "Software Design Portfolio"
+  tagline: "😃 🖥️ 🎉 🐧"
   actions:
     - theme: brand
       text: Template Repository
