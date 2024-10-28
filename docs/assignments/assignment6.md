@@ -85,6 +85,19 @@ _Let’s get started! Is it okay if I record this session?_
 
 ### Task 5
 
+**Task:** Open Your Post
+
+**Introduction Given to User:** _Your next task is to try to find the post you just made on your profile. Once you have found it, you should open the post from here._
+
+**Rationale for Including Task:**
+
+- This task will set up the following tasks of the user-testing (so that after completing the task the user is inside their post in the feed)
+- It will also test whether the user is able to figure out where the “my posts” list is in Strumly (whether or not it’s discoverable)
+
+---
+
+### Task 6
+
 **Task:** Add Tags to Your Post
 
 **Introduction Given to User:** _Your next task is to try to add any tag to your post._
@@ -96,7 +109,7 @@ _Let’s get started! Is it okay if I record this session?_
 
 ---
 
-### Task 6
+### Task 7
 
 **Task:** Go Through Feed Using Filtering
 
@@ -109,7 +122,7 @@ _Let’s get started! Is it okay if I record this session?_
 
 ---
 
-### Task 7
+### Task 8
 
 **Task:** Remix a Post
 
@@ -123,7 +136,7 @@ _Let’s get started! Is it okay if I record this session?_
 
 ---
 
-### Task 8
+### Task 9
 
 **Task:** Search for a Post
 
@@ -133,6 +146,12 @@ _Let’s get started! Is it okay if I record this session?_
 
 - The searching feature is tested last since by now the user will have seen some different posts within the app that they could use the title for
 - I think this will be one of the easier tasks to complete, but it is important to test because this feature lets experienced users find specific posts faster. This task will check if the search box is discoverable, and the interaction for searching (with enter instead of a submit button) is intuitive.
+
+---
+
+### End Reflection
+
+_Do you have any final reflections on what worked well and what was confusing or challenging?_
 
 ## Study Reports
 
