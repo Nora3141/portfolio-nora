@@ -13,21 +13,11 @@ I started this assignment by pre-populating Strumly with some realistic user dat
 
 <img src=/../assets/images/dandelions-screenshot.png />
 
+As a quick note, there is currently some unrealistic data on Strumly that was uploaded by the user-testers during this assignment. The user-testing sessions were just focused on the user-interaction and experience with the website, so the data they ended up uploading during the "Create Post" task was not very realistic. The user tester's usernames in Strumly are _Frogdog_ and ---, but posts by all other usernames should be realistic.
+
 ## Task List
 
-Below is the introduction given to each user-tester and list of tasks.
-
----
-
-### Introduction
-
-_Thank you for participating in the user-testing of Strumly! In this user-testing you’ll be asked to try to perform a series of tasks within the app. To be clear, this user-testing is solely an evaluation on the design of our app, and not at all an evaluation of you. You are also free to choose to leave this user testing at any time._
-
-_Throughout the session, you are encouraged to try to think out loud or try to verbally explain what you are doing. If there is a task you get stuck on, I will first give you some time to try to figure it out on your own. If you still are truly stuck, I can intervene to give you some guidance._
-
-_Let’s get started! Is it okay if I record this session?_
-
----
+Below is the list of tasks given to each user-tester.
 
 ### Task 1
 
@@ -155,8 +145,26 @@ _Do you have any final reflections on what worked well and what was confusing or
 
 ## Study Reports
 
-### Participant 1:
+### Participant 1: Katya
 
-### Participant 2:
+This user-test started off with a moment of difficulty during the initial task. After being prompted to “create an account”, Katya was immediately able to navigate to the login/register page. I watched her enter some credentials and press the create user button, and she noticed the success notification appeared on the screen. However, the page did not change which confused both Katya and me since this was not the behavior I’d experienced during testing on my own. Given this unexpected behavior, I prompted Katya to try logging in again to her account, and she was able to do this on her own successfully.
+
+Katya went through many of the following tasks without much difficulty. She immediately understood how to interact with the trending boxes, using their scrolling behavior to find a post she liked before clicking on it to open it. When presented with the “favoriting” task, she understood she could click on the unlabeled star icon to favorite a post, and then after spending a short time looking through the navigation bar, was able to access her profile and find her favorited post there.
+
+The next task which she had some difficulty with was the “Create Post” task. She was able to create a post on her own successfully, but I noticed she showed some frustration in the many steps involved just to upload her file. To upload her file, Katya ended up recording a video on her phone, uploading it to google drive on her phone, sending herself the link through Messages so she could access it from her computer, and then put this link into Strumly. In testing on my own, I had gotten practiced at doing this quickly, but this user-test highlights the complexity and drawn-out nature of this task. In the future, an possible way to improve the user-experience would be to not use google drive for storing files, but instead allow users to upload them directly, shortening this process. Also during the “Create Post” task, I noticed that Katya seemed a bit confused about the difference between the “About” vs “Credit” section. She first entered what would be the credits of her post into the “About” section before later deciding to change it. This shows that the instructions in these sections could maybe be written clearer to help users understand what they are for.
+
+Katya completed most of the remaining tasks relatively easily, but a final one she had some difficulty with was navigating the feed page when prompted with the task to add a filter. I watched her first spend some time looking for a button she could do this with on the feed page before eventually finding the filtering tag buttons. When she clicked one of the filtering buttons she was confused why the page wasn't immediately updating. It took some time before she eventually found the “next” button and was able to understand the functionality behind this concept. This shows me that the feed page could be better layed out to help the user understand how to interact with it. Katya also attempted to scroll on this page to get to the next post, which is a familiar way navigate other social media apps. To improve the user-experience and ease of understanding, I should also maybe implement this scrolling behavior.
+
+These were some of Katya’s final reflections after completing all of the tasks:
+
+- Difficulty understanding the feed layout - didn’t see the next button and it wasn’t immediately clear to her what this was for
+- Compared this button to the button in the “trending” boxes which she felt like was easy to find and clear for what she was supposed to do
+- Confusion at why registering her account did not immediately navigate to a new page
+- Liked the layout of the home page, especially the image thumbnails that got displayed for each of the posts
+
+### Participant 2: Fatima
 
 ## Design Flaws & Opportunities
+
+- **Confusing Layout of Feed Page:** Both user-testers experienced ... (TODO)
+- **Difficulty Uploading Media to Create Posts:** (TODO)
