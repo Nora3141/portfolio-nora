@@ -164,7 +164,39 @@ These were some of Katya’s final reflections after completing all of the tasks
 
 ### Participant 2: Fatima
 
+For the first task, Fatima was able to successfully create an account by quickly finding the register/login button and entering some credentials. Though in the first user test there was some unexpected behavior on this step, the problem did not reoccur. Fatima also went through the next few tasks on her own pretty easily. She was able to navigate the trending boxes using the arrows, opened a post by clicking on it, and watched through the post’s video. Though it took her a moment of searching, she was able to relatively quickly find the “About” section on a post by clicking on the info icon. After finding this for the first time, she later in the user test continued accessing the info section of posts without difficulty.
+
+One of the main challenges that came up in this user-test was confusion during the “Create a Remix” task. Fatima first spent a while trying to find the button on a post to create a remix of it. Eventually she seemed stuck so I directed her on where this button was. This shows me that the button could be made clearer to the user, maybe by increasing its size or changing its position on the page. Also right now it is just an icon but since remixing is a pretty unfamiliar concept, I think it would be more helpful to change it into a text label. As Fatima continued through this task, she explained to me that she felt confused about what the idea behind the “remixing” concept was. After pressing the create button on her remix, she was surprised that a new post was created and told me that she was expecting it to edit the original. A way I could improve Strumly to make this concept more intuitive could be having more direct instructions and information on the “create” page when you are remixing a post to explain the difference between a remixed post and an original one.
+Another one of the more challenging tasks during this user-test was the filtering search task. Like Katya in my previous user-test, Fatima also did not immediately understand how the navigation of posts in the feed worked. I watched her click on some tag filters at the top of the page and she explained to me that she was confused why the page did not update after these clicks. She eventually did also find the “next” button on her own and understood what was happening, but this user test further highlights the need to restructure the layout of the feed page to make this interaction more intuitive.
+
+These were some of Fatima’s final reflections after completing all of the tasks
+
+- Confusion from the concept of remixing. Mentioned that this was probably made more confusing because she didn’t initially understand that Strumly was a music-related app
+- Expected the feed page to update after clicking a filter. Also didn’t initially understand that the feed page would be a string of multiple posts (thought it was just opening one).
+- Liked that after creating a post, it directs you to your profile where you can view it
+
 ## Design Flaws & Opportunities
 
-- **Confusing Layout of Feed Page:** Both user-testers experienced ... (TODO)
-- **Difficulty Uploading Media to Create Posts:** (TODO)
+- **Confusing Layout of Feed Page (major severity, conceptual)**
+
+  **What is occuring:** Users are not finding the interaction with the feed page intuitive to move between different posts. Specific difficulties include not seeing the "Next" button, not understanding the function of this button, expecting scrolling behavior, and not realizing the feed page contians multiple posts.
+
+  **Why is it occuring:** Many social media apps use scrolling as a common way in a feed to navigate betewen posts. Strumly's use of the "Next" button is an unfamiliar way of interacting with this page. Additionally, besides the small down arrow on the next button, there is no clear indication that there are more posts on this page other than the one that is currently open.
+
+  **Possible changes to address it:** Scrolling could be implemented to use a more familiar interaction. Instructions like "scroll down for more posts" or a larger icon could be put on this screen to help users understand there are more posts to view than just the one that is currently open. Another indicator that could help is putting the top section of the next post at the bottom of the screen (below the currently open one), so the user knows they can scroll down to view it.
+
+- **Difficulty Uploading Media to Create Posts (moderate severity, physical)**
+
+  **What is occuring:** The multi-step process involved for uploading media (taking a video, uploading it to google drive, making it publicly accessible, copying the google drive link, putting it into Strumly), creates difficulty and makes it frustrating for users to upload posts.
+
+  **Why is it occuring:** The many steps involved leave places for the user to make a mistake. The mistakes they can make are recoverable (ex: they can delete a post and try again with corrected media), but make the process feel drawn-out and complicated. Additionally having to switch between different applications (camera, google drive, web browser), can make this process feel more complicated.
+
+  **Possible changes to address it:** By storing video data directly in the MongoDB, users would be able to skip the Google Drive step of this process (instead taking a video and uploading it directly to the app). Additoinally, if this application were turned into a mobile app, users would already be on their phones when using it, so they could more easily access their camera.
+
+- **Lack of Immediate Page Updates in Feed (minor severity, linguistic)**
+
+  **What is occuring:** When users try to add a tag to filter their feed, they are confused why the page does not immediately update with a filtered version of what they are viewing. Additionally, when users press the "Next" button, which generates a random post, occasionally the randomly generated post will be the same as the previously opened one, and users will be confused why this screen did not update. This is marked as minor severity because when trying to fix these problems the user will tend to just press the next post button on their own, which will solve the problem.
+
+  **Why is it occuring:** When interacting with the site, users expect that their clicks on buttons or different parts of the page will have visible effects. Even though in these situations their actions are causing things to occur in the back-end, there is no change in what the user is seeing on screen and it leaves them feeling confused.
+
+  **Possible changes to address it:** Modifications could be made to the front end so that users will see immediate updates in these situations. When a user changes the current applied filter tags, this could automatically get a new post in the feed that has these filters (instead of waiting for the user to press "Next"). When the user presses the "Next" button, the randomized post generator could be modified to not show the user the same post two times in a row (or if it is the only post with the current applied filters, it could display an alert message to the user to notify them of this).
