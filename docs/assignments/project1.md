@@ -248,6 +248,8 @@ Selected Interviewees:
 
 ## Interview Plans and Summaries of Key Lessons
 
+### Interview Questions
+
 <u>Interview Questions for Stakeholders:</u>
 
 1. How do you usually keep track of your health, if at all? How consistently do you do this?
@@ -278,5 +280,29 @@ Selected Interviewees:
 13. Do you have any general advice for creating an app that supports and empowers users in their menstrual health journey? Eg apps we can refer to, research studies on menstruation etc.
 14. What role should lifestyle factors (e.g., diet, exercise, stress) play in a menstruation-tracking app? How can we encourage healthy habits without making users feel pressured or judged?
 15. How might we incorporate mental health support or resources, especially for symptoms that could affect mood and emotional well-being?
+
+### Interview Report 1 - College Student (stakeholder)
+
+**<u>Interviewee Profile</u>**
+
+**Background:** 21-year-old international sophomore studying in the U.S.
+
+**Health Tracking Habit:** Tracks menstrual cycles using the Flo app, monitors hemoglobin count due to anemia through medical tests, and occasionally tracks weight based on hospital visits or changes in diet.
+
+**<u>Report</u>**
+
+The interview provided insights into the student’s health-tracking habits, motivations, and challenges. While she values the ability to track her health data, her approach is shaped by the constraints of her condition, lifestyle habits, and emotional state.
+
+When asked how she tracks her health, the interviewee explained that she uses the Flo app to predict her menstrual cycle. She described keeping close tabs on her hemoglobin levels through medical tests to track progress and make dietary or lifestyle changes as needed. Weight tracking is less consistent and often tied to hospital visits or significant changes in diet. She also mentioned using the MIT medical graph profile for blood count monitoring.
+
+The interviewee noted inconsistencies in her daily health habits, influenced heavily by her mood. On good days, she eats three meals; on stressful days, she might reduce her intake to two meals and often relies on snacking. Her hydration is also inconsistent; she aims to drink 500ml of water daily but sometimes fails to meet this goal. Her menstrual periods are particularly challenging, often marked by mood swings, stress, and a lack of exercise due to cramps and depression. She attempts to manage her symptoms by eating to maintain her energy levels despite feeling down.
+
+The Flo app plays a significant role in her menstrual health tracking. While she logs symptoms and start dates consistently, she is less diligent about daily mood logging. Flo’s predictive capabilities have proven useful for identifying patterns, such as changes related to travel, but she expressed a desire for more tailored insights. The most frustrating part of using Flo is the irrelevant content that sometimes appears on her feed, detracting from her focus on menstrual health.
+
+Motivation for tracking her menstrual health stems from wanting to be prepared for her period, ensuring she has pads on hand and can plan around potential symptoms that might interfere with activities like interviews. Manual tracking felt cumbersome, making the app a more convenient solution. The interviewee also expressed a desire to better understand irregularities in her cycle, such as occasional extended periods or variations in cramp intensity. She wishes the app could offer more detailed insights on these changes, as well as how travel affects her cycle.
+
+Reflecting on community support, she shared that menstruation was not a topic discussed openly at home; her mother only mentioned it after her first period, while most of her knowledge came from school. She believes it is crucial for young girls to learn about menstrual health early, ideally within the family, to reduce embarrassment and increase preparedness.
+
+While she has not joined online health forums, she expressed comfort in sharing personal health information within an app, viewing her experiences as common and relatable. She finds content from sources like Fema Magazine engaging, highlighting the importance of creative and accessible educational materials.Given a "magic wand" scenario, she would create a physical reminder to promote a healthier lifestyle, focusing on discipline in areas like eating and hydration.
 
 ## Revised Impact Case
