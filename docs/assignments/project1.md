@@ -55,10 +55,10 @@ We believe this is a good solution because although there are some existing apps
 
 Selected Interviewees:
 
-- Person 1 Name (expert)
-- Person 2 Name (stakeholder)
-- Person 3 Name (stakeholder)
-- Person 4 Name (stakeholder)
+- Interviewee 1, stakeholder, college student
+- Interviewee 2, stakeholder/expert, volunteer in sexual/reproductive health
+- Interviewee 3, stakeholder, white collar worker in NYC
+- Interviewee 4, stakeholder, college student
 
 ## Research Findings
 
@@ -281,28 +281,20 @@ Selected Interviewees:
 14. What role should lifestyle factors (e.g., diet, exercise, stress) play in a menstruation-tracking app? How can we encourage healthy habits without making users feel pressured or judged?
 15. How might we incorporate mental health support or resources, especially for symptoms that could affect mood and emotional well-being?
 
-### Interview Report 1 - College Student (stakeholder)
+### <a href="https://docs.google.com/document/d/1j26j9122h9smt3-hMtEDl-iD5pYSn26DxuyF49J8NVI/edit?usp=sharing">Interview Report 1 - College Student (stakeholder)</a>
 
-**<u>Interviewee Profile</u>**
+### <a href="https://docs.google.com/document/d/1hWLVHaHtX7JJllrM-Bok38Fs2g5pKn1HLUtjak_d2CY/edit?usp=sharing">Interview Report 2 - Volunteer in Sexual/Reproductive Health (stakeholder/expert)</a>
 
-**Background:** 21-year-old international sophomore studying in the U.S.
+### <a href="https://docs.google.com/document/d/1fZOsZZKKzd3I67mdIFTklJoN3S35HoeOqYUKGzfpC-k/edit?usp=sharing">Interview Report 3 - White Collar Worker in NYC (stakeholder)</a>
 
-**Health Tracking Habit:** Tracks menstrual cycles using the Flo app, monitors hemoglobin count due to anemia through medical tests, and occasionally tracks weight based on hospital visits or changes in diet.
-
-**<u>Report</u>**
-
-The interview provided insights into the student’s health-tracking habits, motivations, and challenges. While she values the ability to track her health data, her approach is shaped by the constraints of her condition, lifestyle habits, and emotional state.
-
-When asked how she tracks her health, the interviewee explained that she uses the Flo app to predict her menstrual cycle. She described keeping close tabs on her hemoglobin levels through medical tests to track progress and make dietary or lifestyle changes as needed. Weight tracking is less consistent and often tied to hospital visits or significant changes in diet. She also mentioned using the MIT medical graph profile for blood count monitoring.
-
-The interviewee noted inconsistencies in her daily health habits, influenced heavily by her mood. On good days, she eats three meals; on stressful days, she might reduce her intake to two meals and often relies on snacking. Her hydration is also inconsistent; she aims to drink 500ml of water daily but sometimes fails to meet this goal. Her menstrual periods are particularly challenging, often marked by mood swings, stress, and a lack of exercise due to cramps and depression. She attempts to manage her symptoms by eating to maintain her energy levels despite feeling down.
-
-The Flo app plays a significant role in her menstrual health tracking. While she logs symptoms and start dates consistently, she is less diligent about daily mood logging. Flo’s predictive capabilities have proven useful for identifying patterns, such as changes related to travel, but she expressed a desire for more tailored insights. The most frustrating part of using Flo is the irrelevant content that sometimes appears on her feed, detracting from her focus on menstrual health.
-
-Motivation for tracking her menstrual health stems from wanting to be prepared for her period, ensuring she has pads on hand and can plan around potential symptoms that might interfere with activities like interviews. Manual tracking felt cumbersome, making the app a more convenient solution. The interviewee also expressed a desire to better understand irregularities in her cycle, such as occasional extended periods or variations in cramp intensity. She wishes the app could offer more detailed insights on these changes, as well as how travel affects her cycle.
-
-Reflecting on community support, she shared that menstruation was not a topic discussed openly at home; her mother only mentioned it after her first period, while most of her knowledge came from school. She believes it is crucial for young girls to learn about menstrual health early, ideally within the family, to reduce embarrassment and increase preparedness.
-
-While she has not joined online health forums, she expressed comfort in sharing personal health information within an app, viewing her experiences as common and relatable. She finds content from sources like Fema Magazine engaging, highlighting the importance of creative and accessible educational materials.Given a "magic wand" scenario, she would create a physical reminder to promote a healthier lifestyle, focusing on discipline in areas like eating and hydration.
+### <a href="https://docs.google.com/document/d/1vJ1xm5LDCPs3Kbj9LRBOTz01fu53Htx6jqMpKr8KBMU/edit?usp=sharing">Interview Report 4 - College Student (stakeholder)</a>
 
 ## Revised Impact Case
+
+Half the population spends approximately ¼ of their teenage and adult life menstruating! It can take years for individuals to figure out what habits alleviate their symptoms and reduce the burden of pain and fatigue during a period or to have stigma-free conversations in and outside of their communities.
+
+Our solution is to develop an app that has a comprehensive period tracker that considers different symptoms and changes that come with a period. By tracking these symptoms, the app would empower users to be able to identify patterns in their data so they are better equipped to find solutions that work for them. In this tracker, users would also be able to opt-in to receive insights such as predictions, with reminders that the insights could be incorrect and they should consult a professional for any medical concerns. As a unique feature in our app, we would also like to include a forum for users to create public posts (where they can choose to be anonymous) to discuss symptoms and solutions with each other. This forum will be an opt-in feature since some users may not wish to engage with it (for cultural or other reasons). A final feature our app will include is a checklist to remind users to complete basic needs that may feel difficult for them when they are on their period.
+
+We believe our solution is good because we aim at addressing the current gap for a safespace in which menstruating people could share their struggles and have discussions with their peers on how they could address such issues. Additionally, we aim at making this space to feel personally tailored for our users and their interests/struggles to better facilitate a healthier lifestyle for them.
+
+We will measure our solution’s success through different periodical surveys that will be sent to our users on top of monitoring user engagement and growth in the platform. We will also aim to measure the consistency in which users interact with our app and the different features it will offer to determine what features work best for users and those that do not so that we may know areas of improvement or deprecation.
