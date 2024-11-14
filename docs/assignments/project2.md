@@ -34,77 +34,77 @@ div.scroll-container img {
 ### Flo
 
 <div class="scroll-container">
-<img src="./Flo01.png">
-<img src="./Flo02.png">
-<img src="./Flo03.png">
-<img src="./Flo04.png">
-<img src="./Flo05.png">
-<img src="./Flo06.png">
-<img src="./Flo07.png">
-<img src="./Flo08.png">
-<img src="./Flo09.png">
-<img src="./Flo10.png">
-<img src="./Flo11.png">
-<img src="./Flo12.png">
+<img src="/../assets/images/Flo01.png">
+<img src="/../assets/images/Flo02.png">
+<img src="../../assets/images/Flo03.png">
+<img src="/../assets/images/Flo04.png">
+<img src="/../assets/images/Flo05.png">
+<img src="/../assets/images/Flo06.png">
+<img src="/../assets/images/Flo07.png">
+<img src="/../assets/images/Flo08.png">
+<img src="/../assets/images/Flo09.png">
+<img src="/../assets/images/Flo10.png">
+<img src="/../assets/images/Flo11.png">
+<img src="/../assets/images/Flo12.png">
 
 </div>
 
 ### Period Tracker Period Calendar
 
 <div class="scroll-container">
-    <img src="./PT01.png">
-    <img src="./PT02.png">
-    <img src="./PT03.png">
-    <img src="./PT04.png">
-    <img src="./PT05.png">
-    <img src="./PT06.png">
-    <img src="./PT07.png">
-    <img src="./PT08.png">
-    <img src="./PT09.png">
+    <img src="/../assets/images/PT01.png">
+    <img src="/../assets/images/PT02.png">
+    <img src="/../assets/images/PT03.png">
+    <img src="/../assets/images/PT04.png">
+    <img src="/../assets/images/PT05.png">
+    <img src="/../assets/images/PT06.png">
+    <img src="/../assets/images/PT07.png">
+    <img src="/../assets/images/PT08.png">
+    <img src="/../assets/images/PT09.png">
   
 </div>
 
 ### Ovia Health
 
 <div class="scroll-container">
-    <img src="./OvioHealth01.png">
-    <img src="./OvioHealth02.png">
-    <img src="./OvioHealth03.png">
-    <img src="./OvioHealth04.png">
+    <img src="/../assets/images/OvioHealth01.png">
+    <img src="/../assets/images/OvioHealth02.png">
+    <img src="/../assets/images/OvioHealth03.png">
+    <img src="/../assets/images/OvioHealth04.png">
 </div>
 
 ### Clue
 
 <div class="scroll-container">
-    <img src="./Clue01.png">
-    <img src="./Clue02.png">
-    <img src="./Clue03.png">
+    <img src="/../assets/images/Clue01.png">
+    <img src="/../assets/images/Clue02.png">
+    <img src="/../assets/images/Clue03.png">
 </div>
 
 ### Glow
 
 <div class="scroll-container">
-    <img src="./Glow01.png">
-    <img src="./Glow02.png">
+    <img src="/../assets/images/Glow01.png">
+    <img src="/../assets/images/Glow02.png">
 </div>
 
 ### Relieved
 
 <div class="scroll-container">
-    <img src="./Relieved01.png">
-    <img src="./Relieved02.png">
+    <img src="/../assets/images/Relieved01.png">
+    <img src="/../assets/images/Relieved02.png">
 </div>
 
 ### Life
 
 <div class="scroll-container">
-    <img src="./Life01.png">
+    <img src="/../assets/images/Life01.png">
 </div>
 
 ### Women's Health & Tips
 
 <div class="scroll-container">
-    <img src="./WH01.png">
+    <img src="/../assets/images/WH01.png">
 </div>
 
 ## Feature Brainstorming :bulb:
@@ -218,7 +218,7 @@ div.scroll-container img {
 ### Storyboard 01
 
 <div class="scroll-container">
-     <img src="./Project-SB01.jpg">
+     <img src="/../assets/images/Project-SB01.jpg">
 </div>
 
 In this first storyboard, the user has a headache and mentions that she notices this happens often during her period. She decides to start tracking her symptoms on the app so she will be able to predict better when her symptoms will occur. She starts doing this by selecting her mood for today and typing in the symptoms she’s experiencing today. She continues logging entries into this tracker regularly. Later, she realizes she has an event on a day where she would predict from her logged entries that her symptoms will be starting again. She decides to move the event and later is happy that because she did this, she is feeling well on this day.
@@ -226,7 +226,7 @@ In this first storyboard, the user has a headache and mentions that she notices 
 ### Storyboard 02
 
 <div class="scroll-container">
-     <img src="./Project-SB02.jpg">
+     <img src="/../assets/images/Project-SB02.jpg">
 </div>
 
 In this second storyboard, the user is experiencing symptoms from her period and is wondering if the app has any suggestions for her that will be helpful. She navigates to the forums page and sees many discussion posts by other users about different menstrual health topics. She uses the search bar at the top of the page to find posts about her symptoms and, within these, finds one post that seems relevant to her. She views the replies on this post and sees a user-suggested solution to her problem that she decides to try out. It works for her, and she feels much better.
